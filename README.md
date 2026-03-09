@@ -25,7 +25,7 @@ A Retrieval-Augmented Generation (RAG) chatbot developed to provide precise answ
 * **Streamlined UI:** Features a clean, interactive **Streamlit** interface for easy user navigation.
 
 **Interface Preview:**
-![Streamlit Interface](Malaysian Legal AI/picture/Streamlit_example.png)
+![Streamlit Interface](Malaysian%20Legal%20AI/picture/Streamlit_example.png)
 
 ---
 
