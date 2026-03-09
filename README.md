@@ -23,7 +23,12 @@ A Retrieval-Augmented Generation (RAG) chatbot developed to provide precise answ
 * **Hallucination Mitigation:** Employs **ChromaDB** for vector-based retrieval, ensuring the AI only references verified document snippets.
 * **Streamlined UI:** Features a clean, interactive **Streamlit** interface for easy user navigation.
 
+<<<<<<< HEAD
 #### Interface Preview: ![Streamlit Interface](Malaysian%20Legal%20AI/picture/Streamlit_example.png)
+=======
+**Interface Preview:**
+![Streamlit Interface](Malaysian%20Legal%20AI/picture/Streamlit_example.png)
+>>>>>>> 328e61b6373371b9653663a886040132ad4f269e
 
 ---
 
