@@ -1,0 +1,21 @@
+# API Keys and Secrets
+.env
+
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Data & AI Outputs
+outputs/invoice_data.xlsx
+data/receipt1.jpg
+chroma_db/
+
+# Document Data
+*.pdf
+
+# OS Specific
+.DS_Store
+Thumbs.db
