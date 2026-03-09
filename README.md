@@ -1,4 +1,3 @@
-
 # AI-Powered Malaysian Financial & Legal Toolkit
 
 This repository features a suite of AI applications designed to automate financial documentation and legal research specifically for the Malaysian market. By integrating **Google Gemini** and  **LangChain** , these tools provide high-accuracy, production-ready solutions for local tax and employment law inquiries.
@@ -24,8 +23,7 @@ A Retrieval-Augmented Generation (RAG) chatbot developed to provide precise answ
 * **Hallucination Mitigation:** Employs **ChromaDB** for vector-based retrieval, ensuring the AI only references verified document snippets.
 * **Streamlined UI:** Features a clean, interactive **Streamlit** interface for easy user navigation.
 
-**Interface Preview:**
-![Streamlit Interface](Malaysia%20Legal%20AI/picture/Streamlit_example.png)
+#### Interface Preview: ![Streamlit Interface](Malaysian%20Legal%20AI/picture/Streamlit_example.png)
 
 ---
 
